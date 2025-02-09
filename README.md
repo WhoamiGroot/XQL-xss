@@ -1,6 +1,6 @@
 advanced XSS (Cross-Site Scripting) scanner that's designed to be used for web application security testing, often as part of bug bounty hunting. It utilizes a combination of different techniques to test for potential XSS vulnerabilities on a website. 
 
-![Screenshot from 2025-02-09 18-00-41](https://github.com/user-attachments/assets/958c3f89-d184-4054-911a-94165fd72cd2)
+![Screenshot from 2025-02-09 18-00-41](https://github.com/user-attachments/assets/0a30d1d0-7cc5-434e-911a-6b9f88937925)
 
 Additional Considerations:
 
@@ -56,20 +56,20 @@ Key Points to Keep in Mind:
     External Dependencies: This script relies on several libraries such as requests, BeautifulSoup, and selenium, and you'll need the Chrome WebDriver for Selenium.
 
 First go to BurpCollaborator:
-![Screenshot from 2025-02-09 17-25-08](https://github.com/user-attachments/assets/5af58e49-38b2-4986-af9f-5d4fdc88f880)
+![Screenshot from 2025-02-09 17-25-08](https://github.com/user-attachments/assets/431814fb-d2fa-4112-bcfc-3a84add7ebb6)
 
 Then Copy to clipboard:
-![Screenshot from 2025-02-09 17-25-45](https://github.com/user-attachments/assets/cc463ab8-4519-4f82-9b73-4ae28f7da8fc)
+![Screenshot from 2025-02-09 17-25-45](https://github.com/user-attachments/assets/40b7cff5-d660-4d74-ad98-83782b4a1c7b)
 
 Then edit line 14 in the script: (The blue selected line and paste from your clipboard).
-![Screenshot from 2025-02-09 17-26-33](https://github.com/user-attachments/assets/732b2623-cbd5-47ae-9fdb-1cd3c0182aa4)
+![Screenshot from 2025-02-09 17-26-33](https://github.com/user-attachments/assets/19d75b62-2018-4421-9d73-d156df0ff358)
 
 And have fun happy hacking, Don't forget foxy proxy on port 8080, localhost 127.0.0.1
-![XSS_NEW](https://github.com/user-attachments/assets/1bcdd754-c238-4289-ad2c-2d63d65efb52)
+![XSS_NEW](https://github.com/user-attachments/assets/39e4f825-fe9f-4e8d-a1a6-ef0a4f5b6f6e)
 
 When you are finished you can view the results in txt or JSON file.
 example:
-![Screenshot from 2025-02-09 17-43-15](https://github.com/user-attachments/assets/72b8648c-bc8a-4468-9945-ec3d718806b1)
+![Screenshot from 2025-02-09 17-43-15](https://github.com/user-attachments/assets/5a07eb92-21ad-4a07-8b13-1dcfc2b4c4c8)
 
 Key Points to Keep in Mind:
 
