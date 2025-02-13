@@ -14,7 +14,7 @@ cd XQL-xss
 pip install requests
 ```
 ```
-pip install BeautifulSoup
+pip3 install beautifulsoup4
 ```
 ```
 pip install selenium
