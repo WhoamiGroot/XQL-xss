@@ -2,6 +2,28 @@ advanced XSS (Cross-Site Scripting) scanner that's designed to be used for web a
 
 ![Screenshot from 2025-02-09 18-00-41](https://github.com/user-attachments/assets/0a30d1d0-7cc5-434e-911a-6b9f88937925)
 
+Installation:
+
+```
+git clone https://github.com/WhoamiGroot/XQL-xss
+```
+```
+cd XQL-xss
+```
+```
+pip install requests
+```
+```
+pip install BeautifulSoup
+```
+```
+pip install selenium
+```
+Run the script:
+```
+python3 xql.py https://example.com
+```
+
 Additional Considerations:
 
     Webdriver: Make sure that you have the Chrome WebDriver installed for Selenium to work.
