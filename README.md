@@ -2,6 +2,12 @@ advanced XSS (Cross-Site Scripting) scanner that's designed to be used for web a
 
 ![Screenshot from 2025-02-09 18-00-41](https://github.com/user-attachments/assets/0a30d1d0-7cc5-434e-911a-6b9f88937925)
 
+Here is a write up about what you can do with reflected xss for example:
+
+```
+https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3
+```
+
 Installation:
 
 ```
